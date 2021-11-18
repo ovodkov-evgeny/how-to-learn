@@ -181,6 +181,10 @@
   font-weight: normal;
 }
 
+.table__text-margin {
+  margin-bottom: 20px;
+}
+
 /* Feynman section */
 
 .feynman {
