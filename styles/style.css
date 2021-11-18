@@ -10,7 +10,7 @@
   box-sizing: border-box;
 }
 
-.page__header-margin, .page__description-margin, .page__digits-margin {
+.page__header-margin, .main__description-margin, .main__digits-margin {
   margin-bottom: 100px;
 }
 
