@@ -1,7 +1,12 @@
-.header__link_animated {
+.link {
   background-image: linear-gradient(currentColor, currentColor);
   background-position: 0% 100%;
   background-repeat: no-repeat;
   background-size: 0% 2px;
   transition: background-size .3s, opacity .3s;
+}
+
+.link:hover {
+  background-size: 100% 2px;
+  opacity: .7;
 }
